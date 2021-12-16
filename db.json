@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Monstera",
+      "image": "https://assets.weimgs.com/weimgs/ab/images/wcm/products/202129/0021/img97o.jpg",
+      "price": "470.00",
+      "id": 8
+    },
+    {
+      "name": "Another monstera",
+      "image": "https://assets.weimgs.com/weimgs/ab/images/wcm/products/202129/0021/img97o.jpg",
+      "price": "300.00",
+      "id": 9
     }
   ]
 }
